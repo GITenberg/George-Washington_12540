@@ -1,0 +1,25 @@
+_repo: George-Washington_12540
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thayer, William Roscoe
+    birthdate: 1859
+    deathdate: 1923
+    gutenberg_agent_id: '887'
+    url: http://www.gutenberg.org/2009/agents/887
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'Washington, George, 1732-1799'
+- !lcc 'E300'
+- GITenberg
+title: George Washington
+url: http://www.gutenberg.org/ebooks/12540
